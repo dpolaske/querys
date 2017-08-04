@@ -1,3 +1,4 @@
 select test
 from test table
-where nothing = 'something'
+where nothing = 'something' and everything <> 'that'
+
